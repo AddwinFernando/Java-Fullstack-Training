@@ -1,0 +1,7 @@
+- Basic computer components
+- Networking
+- How a server works
+- Internet protocols , UDP , TCP
+- DNS
+- OSI Layers
+- CDM
