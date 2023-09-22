@@ -1,0 +1,5 @@
+Task
+-To create a twitter sign up page
+-used div and flex for positioning
+-used css to design the buttons and pages
+-used github pages to host this website
