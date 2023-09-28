@@ -1,0 +1,16 @@
+javascript
+    -DOM manupulation
+    -get element by ID
+    -onclick funcitons
+    -Event lisetner
+    -Array manupilation using Map and filter
+    -Todo application
+    -Application has the feature to add items delete items and edit items
+
+Task
+    -To create a phone bok application
+    -The phone book should have two feilds number and name
+    -the number and name entered in this feild should be added to a table
+    -the number and feild should have the function to be deleted fom the table using a button
+    -the number and feild should be editable using a button
+    -push and host the page in github
