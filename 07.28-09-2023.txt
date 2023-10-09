@@ -1,0 +1,15 @@
+Listner:
+    -on load , click ,in focus
+    -.InnerText .innerValue .innerHTML
+
+TASK 
+    -Build an E-commerce website using only HTML CSS BootStrap and javascript
+    -Build the UI for all the pages in the e-commerce website
+        -login
+        -sign-up
+        -Homepage
+        -Cart
+        -Orders
+        -admin
+        -add-Products
+        -Admin Orders

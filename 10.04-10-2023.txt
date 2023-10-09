@@ -1,0 +1,4 @@
+E-commerce
+    -Admin page
+    -Orders placed in users will show in admin page
+    -admin can change the status of the placed order 

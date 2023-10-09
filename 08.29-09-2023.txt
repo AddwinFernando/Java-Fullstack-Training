@@ -1,0 +1,7 @@
+JAVASCRIPT 
+    -Local Strorage
+    -Sessoin Strorage
+    -Map , Reduce , filter
+
+E-commerce
+    -Demo on how to build an e-commerce website

@@ -1,0 +1,9 @@
+Add to Cart page
+    -Increament funcitonality for quantity
+    -The same quantity should be displayed in cart page
+
+Form Validation using javascript
+    -Name auto capitalizing
+    -Password strength detection
+    -email Validation
+    -Checkbox/Radio Buton Validation

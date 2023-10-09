@@ -1,0 +1,4 @@
+E-commerce
+    -final small funcitonality additions like cart number etc.
+    -Stylling th epages to make it loo better
+    -Finding bugs and fixing them
