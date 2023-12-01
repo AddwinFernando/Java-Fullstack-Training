@@ -1,0 +1,6 @@
+Crockery Store
+--------------
+        *Continued with the integration part of back end and front end  
+        -Change the Back-end models and functions with respect to Adding Photos
+        -Changed the security config in order to access the photo upload and download urls
+        -Created a download model to download and show the photo in front end

@@ -1,0 +1,8 @@
+Crockery Store
+--------------
+    *Completed the backend part for sprint 1 with the following 
+        - Check-Out
+        - Get-Orders 
+        - Set-OrderStatus
+        - User Profile 
+        - Auth (Login/Register)

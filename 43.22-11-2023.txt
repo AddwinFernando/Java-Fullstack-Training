@@ -1,0 +1,9 @@
+Crockery Store
+--------------
+    -Created UI for Components
+        Admin-Home
+        Add-Products
+    -Connected Back-end to these components ading functionalities
+        -Add/Edit/Delete categories
+        -Add/Edit/Delete Products
+        -veiw all products in home

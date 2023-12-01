@@ -1,0 +1,22 @@
+Crockery Store
+--------------
+*Continued with the backend part of the project 
+        -> Controller
+            - Admin Category
+                END-POINTS
+                ----------
+                -Add
+                -Edit
+                -Delete
+                -and veiwing the categories which are added
+            - Admin item
+                END-POINTS
+                ----------
+                -Add
+                -Edit
+                -Delete
+                -and veiwing the items 
+            - USer item
+                END-POINTS
+                ----------
+                -veiw items

@@ -1,0 +1,11 @@
+Crockery Store
+--------------
+*Continued with the backend part of the project 
+    -> Controller
+        - Add to cart end-point
+            -add to cart -POST
+            -increase count of the items in cart -PUT
+            -decrese count of the items in cart -PUT
+            -remove item from cart -DELETE
+        -Show cart
+            -GET method to show 

@@ -1,0 +1,17 @@
+Crockery Store
+--------------
+    *Final bug fixes
+    -Recorded the demo video of full site functionalities
+    -Added readme file to the repository
+
+Links 
+------
+Front End Link - https://github.com/AddwinFernando/Crockery-Store-Angular
+Back End Link - https://github.com/AddwinFernando/Crockery-Store-Spring
+Video Link - https://drive.google.com/file/d/11mDkZNA_1IcbPhapAmAYC6E6AiNE_WE9/view?usp=sharing
+
+Topics
+-------
+    -> Struts
+    -> Lazy loading
+    -> Custom Validation

@@ -1,0 +1,19 @@
+    *Started with the front-end part of the project using angular.
+        - Components
+            -Admin
+                1. Add-Products 
+                2. Orders 
+                3. Home 
+                4. Add-Category 
+                
+            1. Login 
+            2. Register 
+            3. Home 
+            4. Cart 
+            5. Orders 
+            7. Profile 
+            8. Navbar
+
+        - Added Router to the components for the navigations.
+        - Included the required forms.
+        - Added custom and lottie animations 

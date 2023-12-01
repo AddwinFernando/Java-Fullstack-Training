@@ -1,0 +1,7 @@
+Crockery Store
+--------------
+    -Created UI for Components
+        -User Orders
+        -Admin Orders
+    -Connected Back-end to these components ading functionalities
+        -Fuctionality for the user to set the status of the users order

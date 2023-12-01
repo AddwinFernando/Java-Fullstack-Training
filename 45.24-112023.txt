@@ -1,0 +1,9 @@
+Crockery Store
+--------------
+    -Created UI for Components
+        -User Orders
+        -Profile page
+        -Add Address Compoent
+    -Connected Back-end to these components ading functionalities
+        -Check Out products
+        -Added Address Functionality Add/Edit/Delete

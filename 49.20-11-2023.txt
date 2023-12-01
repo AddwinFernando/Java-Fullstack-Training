@@ -1,0 +1,7 @@
+Crockery Store
+--------------
+        *Continued with the integration part of back end and front end 
+        - Ui/Ux revamp across the site
+        - Change all buttons and feild to follow a theme
+        - Changed the color scheme
+        - Added lottie animations to the page

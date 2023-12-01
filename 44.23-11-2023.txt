@@ -1,0 +1,9 @@
+Crockery Store
+--------------
+    -Created UI for Components
+        -User Home
+        -User Cart
+    -Connected Back-end to these components ading functionalities
+        -Add/Edit/Delete PProducts to cart
+        -veiw all products in home
+        -veiw Products in cart
